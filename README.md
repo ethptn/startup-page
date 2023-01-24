@@ -1,4 +1,4 @@
 # startup-page
 First page
 
-website link: ethptn.github.io
+website link: https://ethptn.github.io/startup-page/
